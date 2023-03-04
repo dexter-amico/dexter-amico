@@ -19,3 +19,8 @@ Atualmente estou estudando Node.js e javascript, mas também possuo conhecimento
 
 #### **Redes Sociais**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelamico/)
+
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexter-amico&count_private=true&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexter-amico&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
